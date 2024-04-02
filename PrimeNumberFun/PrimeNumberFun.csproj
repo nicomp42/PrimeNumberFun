@@ -45,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Fish.cs" />
+    <Compile Include="gunjkamg.cs" />
     <Compile Include="HelloWorld.cs" />
     <Compile Include="PrimeNumbers.cs" />
     <Compile Include="Program.cs" />
